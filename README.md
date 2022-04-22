@@ -1,2 +1,2 @@
-# multiplatformHistogramReactNative
+# crossplatformHistogramReactNative
 It's a functional histogram component for React Native.
